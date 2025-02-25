@@ -1,0 +1,63 @@
+#title{
+    font-family:-apple-system, sans-serif;
+    font-style:normal;
+    text-align: center;
+    font-stretch:semi-expanded;
+    font-weight: bolder;
+    font-stretch: wider ;
+    color:#404040;
+    
+   
+
+}
+#img-div{
+    border-image: stretch;
+    margin:100px 100px ;
+    height:auto;
+    
+    
+    
+}
+#img-caption{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: large;
+    
+}
+h2{
+    font-family: system-ui, -apple-system;
+    text-align: center;
+    color:#404040;
+}
+*{
+    background-color:#e6e6e6;
+    backface-visibility: visible; 
+}
+ul{
+    display:inline-block;
+    font-family: system-ui, -apple-system;
+    
+}
+#paragraph{
+    text-align:center;
+    font-family:-apple-system,system-ui;
+    line-height:40px;
+}
+#tribute-info{
+    font-size:large;
+    
+}
+#footer{
+    font-family:system-ui,-apple-system;
+
+}
+#tribute-link{
+    color:#9a5656;
+    font-weight: bold;
+    
+}
+#image{
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
